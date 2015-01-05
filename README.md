@@ -1,7 +1,7 @@
-#Note : Anyone is allowed to use this code.
-
-The Sensors included in this repository are written for use with an arduino.
-The Sensors are as follows :
+#Note : Anyone is allowed to use this code. <br>
+ <br>
+The Sensors included in this repository are written for use with an arduino. <br>
+The Sensors are as follows : <br>
   ADXL345 - Accelerometer <br>
   BMP1850 - Barometer <br>
   HIH6130 - Hygrometer <br>
